@@ -29,7 +29,7 @@ public class Revision {
                 str[1]="singh";
                 str[2]="techbodhi";
                 
-                //10, true and priyankat
+                //10, true and priyanka
                 
                 Object[] obj= new Object[3];
                 obj[0]=10;
