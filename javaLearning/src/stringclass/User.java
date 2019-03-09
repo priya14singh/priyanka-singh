@@ -1,4 +1,7 @@
-package oops;
+package stringclass;
+
+import oops.SmartPhone;
+import oops.Telephone;
 
 public class User {
 
